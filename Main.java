@@ -16,7 +16,8 @@ public class Main
         System.out.println(one.getNextLoc(1, 3));
         System.out.println(one.getNextLoc(2, 4));
         System.out.println(one.getNextLoc(4,3));
-        int[][] secondGrid={
+        int[][] secondGrid=
+        {
             {12, 30, 40, 25, 5},
             {11, 3, 22, 15, 43},
             {7, 2, 9, 4, 0},
